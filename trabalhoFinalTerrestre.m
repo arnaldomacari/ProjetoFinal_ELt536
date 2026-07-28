@@ -36,7 +36,7 @@ Baias = {
 
 
 % Waypoints
-Wp_ = [   0.0  -5.0  NaN            0  0; 
+Wp = [   0.0  -5.0  NaN            0  0; 
         -0.5  -0.5  NaN            0  1;   
         -3.0   0.0  deg2rad(-90)   1  0;   % >>> BAIA A
         -3.0   0.0  deg2rad(150)   1  1; 
@@ -56,7 +56,7 @@ Wp_ = [   0.0  -5.0  NaN            0  0;
 
 
 % Waypoints
-Wp = [  0.0  -5.0  NaN            0  0; 
+Wp_ = [  0.0  -5.0  NaN            0  0; 
         -0.5  -0.5  NaN            0  0;   
         -3.0   0.0  deg2rad(-90)   1  0;   % >>> BAIA A
         -3.0   0.0  deg2rad(150)   1  0; 
